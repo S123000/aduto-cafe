@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Aduto Signature Burger",
+    "price": 15.5,
+    "desc": "Juicy beef patty, house sauce, cheddar."
+  },
+  {
+    "id": 2,
+    "name": "Iced Caramel Macchiato",
+    "price": 5.5,
+    "desc": "Rich espresso layered with fresh milk and caramel."
+  }
+]
